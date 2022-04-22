@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown学习教程 on Jesuslove小木屋</title>
+    <link>https://example.org/tags/markdown%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B/</link>
+    <description>Recent content in Markdown学习教程 on Jesuslove小木屋</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 21 Apr 2022 17:40:28 +0800</lastBuildDate><atom:link href="https://example.org/tags/markdown%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://example.org/post/first-post/</link>
+      <pubDate>Thu, 21 Apr 2022 17:40:28 +0800</pubDate>
+      
+      <guid>https://example.org/post/first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
